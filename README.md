@@ -2,7 +2,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choprahetarth)](https://github.com/anuraghazra/github-readme-stats)
+[![Hetarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=choprahetarth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choprahetarth)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on a Time Series Stock Market Prediction Project
