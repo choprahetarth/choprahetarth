@@ -2,10 +2,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Hetarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=choprahetarth&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Hetarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=choprahetarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choprahetarth&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choprahetarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
