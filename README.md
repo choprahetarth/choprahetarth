@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on a Time Series Stock Market Prediction Project
+- 🔭 I’m currently working on A Time Series Mechanical Engineering Research Project
 - 🌱 I’m currently learning Time Series modelling using Deep Learning
 - 👯 I’m looking to collaborate on research based in Data Science and Robotics
 - 🤔 I’m looking for help with uhhh... Computer Vision? 
@@ -17,17 +17,3 @@
 - 📫 How to reach me: choprahetarth@gmail.com
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 
-<!--
-**choprahetarth/choprahetarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
