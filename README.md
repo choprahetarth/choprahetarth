@@ -9,10 +9,10 @@
 
 
 
-- 🔭 I’m currently working on A Time Series Mechanical Engineering Research Project
-- 🌱 I’m currently learning Time Series modelling using Deep Learning
+- 🔭 I’m currently working as an ML Engineer at Dukaan
+- 🌱 I’m currently learning Self Attention Mechanism for Vision and NLP Tasks alike
 - 👯 I’m looking to collaborate on research based in Data Science and Robotics
-- 🤔 I’m looking for help with uhhh... Computer Vision? 
+- 🤔 I’m looking for help with uhh.... NLP
 - 💬 Ask me about anything but politics
 - 📫 How to reach me: choprahetarth@gmail.com
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
